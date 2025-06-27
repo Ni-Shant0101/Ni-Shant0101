@@ -1,11 +1,11 @@
-<!-- ✨ Sleek Welcome Header with Typing Animation -->
+<!-- 🧠 Typing Animated Welcome with Indian Touch -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant!;Java+Backend+Developer+from+India;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Namaste+%F0%9F%99%8F%2C+I'm+Nishant!;A+Passionate+Java+Backend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
 ---
 
-<h2 align="center">🚀 A passionate developer who codes with 💙</h2>
+<h2 align="center">💖 A passionate Java backend developer who codes with a sparkling pink heart</h2>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8b1f.gif" alt="Coding" width="350"/>
