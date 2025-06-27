@@ -1,6 +1,6 @@
 <!-- 🧠 Typing Animated Welcome with Indian Touch -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Namaste+%F0%9F%99%8F%2C+I'm+Nishant!;A+Tech-savvy+Java+Backend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Namaste+%F0%9F%99%8F%2C+I'm+Nishant!;A+Java+Backend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
 ---
