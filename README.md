@@ -6,8 +6,10 @@
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m currently learning **Spring Security and JWT**
 - 💬 Ask me about **Java, Spring Boot, MySQL**
-- 📫 How to reach me: `mattenishant@gmail.com`
-- ⚡ Fun fact: I love clean code and turbo sound sututut 🏎️
+- 📫 How to reach me: `mattenishant@gmail.com` 
+  - 📷 [Instagram](https://www.instagram.com/zeconiniar?igsh=MTRicjlldmp1YXhnMQ==)  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/nishant-matte-952782247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ⚡ Fun fact: I love clean code and turbo sound sututu 🏎️
 
 ### 🛠️ Languages and Tools:
 
