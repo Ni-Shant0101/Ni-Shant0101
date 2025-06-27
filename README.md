@@ -6,21 +6,21 @@
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m currently learning **Spring Security and JWT**
 - 💬 Ask me about **Java, Spring Boot, MySQL**
-- ### 📫 How to reach me:
-
-### 📫 Contact Me
+  ### 📫 Contact Me
 
 <p align="left">
   <a href="mailto:mattenishant@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail--v1.gif" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/zeconiniar?igsh=MTRicjlldmp1YXhnMQ==" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.gif" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.gif" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+
 - ⚡ Fun fact: I love clean code and turbo sound sututu 🏎️
 
 ### 🛠️ Languages and Tools I Use:
