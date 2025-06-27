@@ -5,7 +5,7 @@
 
 ---
 
-<h2 align="center">💖 A passionate Java backend developer who codes with a sparkling pink heart</h2>
+<h2 align="center"> A passionate Java backend developer 💻 </h2>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8b1f.gif" alt="Coding" width="350"/>
