@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m currently learning **Spring Security and JWT**
 - 💬 Ask me about **Java, Spring Boot, MySQL**
-- 📫 How to reach me: `your-email@example.com`
+- 📫 How to reach me: `mattenishant@gmail.com`
 - ⚡ Fun fact: I love clean code and turbo sound sututut 🏎️
 
 ### 🛠️ Languages and Tools:
