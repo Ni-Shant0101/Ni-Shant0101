@@ -44,23 +44,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ni-Shant0101&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni-Shant0101&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/Ni-Shant0101/Ni-Shant0101/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🔁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ni-Shant0101&label=Profile+Views&color=blue&style=flat-square" alt="views"/>
-</p>
