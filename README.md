@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
+<!-- Typing animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant.;Java+Backend+Developer+from+India;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</h1>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8b1f.gif">
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Ni-Shant0101/Ni-Shant0101/assets/12345678/banner.gif" alt="Nishant Banner" width="100%"/>
+</p>
 
-- 🔭 I’m currently working on **Spring Boot Projects**
-- 🌱 I’m currently learning **Spring Security and JWT**
-- 💬 Ask me about **Java, Spring Boot, MySQL**
- 
+---
+
 ### 💫 Connect with Me
 
 <p align="center">
@@ -15,19 +18,33 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" width="50"/></a>
 </p>
 
-- ⚡ Fun fact: I love clean code and turbo sound sututu 🏎️
+---
 
-### 🛠️ Languages and Tools I Use:
+### 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="90" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="50" height="50"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,maven" />
 </p>
 
-### 📈 GitHub Stats:
+---
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ni-Shant0101&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ni-Shant0101&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ni-Shant0101&show_icons=true&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni-Shant0101&layout=compact&theme=radical" width="47%">
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ni-Shant0101/Ni-Shant0101/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🚀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ni-Shant0101&label=Profile+Visits&color=brightgreen" alt="visit counter"/>
+</p>
