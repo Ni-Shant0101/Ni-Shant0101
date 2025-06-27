@@ -20,13 +20,17 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,maven" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/41a4790484e268102dfdab2b7c5d64b0cbbd301c/resources/img/java.gif" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/mysql.gif" width="60"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/git.gif" width="60"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="60"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/postman.gif" width="60"/>
 </p>
 
----
 
 ### 📊 GitHub Stats
 
