@@ -34,13 +34,14 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.gif" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/ArthDhakecha/Spring-Boot-Logo/main/springboot.gif" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/main/icons/mysql.gif" alt="MySQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tsaniyah/Animated-Tech-Icons/main/icons/git.gif" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tsaniyah/Animated-Tech-Icons/main/icons/github.gif" alt="GitHub" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212568313-cbf9a0c2-e6c9-4f4f-a2b3-65b9c5f01085.gif" alt="Postman" width="60" height="60"/>
 </p>
+
 
 ---
 
@@ -48,7 +49,7 @@
 - 🔭 Building Spring Boot Microservices
 - 🔐 Exploring JWT, Spring Security
 - 💬 Ask me about: Java, REST APIs, SQL
-- 🧠 Fun fact: I love clean code and turbo sound sututu 🏎️
+  
 
 ---
 
